@@ -38,7 +38,7 @@ assessment, please see the course instructor during the assessment time period.
 You must read and ensure that you understand all of the instructions in this
 file before starting the assessment.
 
-## 😁 Note: Student Name
+## 😁 TODO: Student Name
 
 Note: You must delete `Student Name` add your name to the subsection header
 
@@ -65,9 +65,9 @@ this assessment.
 
 ## 🌟 Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this assessment."
 
-Note: You must retype the sentence here in order to digitally sign your pledge.
+TODO: You must retype the sentence here in order to digitally sign your pledge.
 
-"I adhered to the Allegheny College Honor Code while completing this assessment."
+
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
