@@ -40,7 +40,7 @@ file before starting the assessment.
 
 ## 😁 TODO: Add Your Name Here
 
-Note: You must delete the words after the `TODO` marker add your name to the subsection header
+Note: You must delete the words after the emoji by adding your name to the subsection header
 
 ## 🚧 Honor Code
 
