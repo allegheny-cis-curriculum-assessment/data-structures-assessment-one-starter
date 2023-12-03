@@ -37,6 +37,9 @@ from evalugator import constants, run, test
 # --> You must implement Python functions to complete each of these steps,
 # bearing in mind that one defective function may break another function.
 
+# --> If you introduce a defect into this program that causes it to crash
+# or run in an infinite loop you are responsible for fixing this problem!
+
 # --> Your source code must adhere to industry best practices in, for instance,
 # source code formatting, variable naming, and documentation.
 
