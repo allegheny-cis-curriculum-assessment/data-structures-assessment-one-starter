@@ -60,7 +60,8 @@ jobs:
           run:  |
            pip install git+https://github.com/GatorEducator/gatorgrade.git@main
            pip list
-           gatorgrade --report env md GITHUB_STEP_SUMMARY      
+           gatorgrade --report env md GITHUB_STEP_SUMMARY    
+             
         - name: Get current time
           uses: josStorer/get-current-time@v2
           if: always()
