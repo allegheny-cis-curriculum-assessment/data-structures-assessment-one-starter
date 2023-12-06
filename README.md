@@ -58,7 +58,7 @@ Note: You must delete the words after the emoji and then add your name to the su
 Allegheny College Honor Code throughout the completion of this assessment. If
 the instructor detects that a student has committed a likely violation of the
 Allegheny College Honor Code, this will result in the filing of a report with
-the Dean of Students Office and the furnishing of all details of the likely
+the Dean of Students Office and the furnishing of all details about the likely
 violation. Please make sure that you review the [Allegheny College Honor
 Code](https://sites.allegheny.edu/about/honor-code/) before you start to take
 this assessment.
