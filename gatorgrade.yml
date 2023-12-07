@@ -43,12 +43,12 @@ setup: |
 
 # run a command: ruff check with default settings found in .ruff.toml file
 - description: Ensure that the source code follows an industry-standard programming rules using the command 'ruff check'
-  objectives: "LO4, LO5"
+  objectives: "LO4,LO5"
   command: ruff check source/assessment.py
 
 # run a command: ruff format with default settings found in .ruff.toml file
 - description: Ensure that the source code adheres to an industry-standard format using the command 'ruff format'
-  objectives: "LO4, LO5"
+  objectives: "LO4,LO5"
   command: ruff format source/assessment.py --check
 
 # }}}
@@ -58,7 +58,7 @@ setup: |
 # run the program and confirm the existence of fragments in its output
 - description: "Run a program and confirm the correct number of non-blank lines in the output when running the assessment.py program"
   check: CountCommandOutput
-  objectives: "LO4, LO5"
+  objectives: "LO4,LO5"
   options:
     command: "python source/assessment.py"
     count: 6
@@ -67,7 +67,7 @@ setup: |
 # run the program and confirm the existence of fragments in its output
 - description: "Run the program and confirm the existence of correct output for part one of the assessment"
   check: MatchCommandFragment
-  objectives: "LO2, LO5"
+  objectives: "LO2,LO5"
   options:
     command: "python source/assessment.py"
     fragment: "100 / 5 / True"
@@ -77,7 +77,7 @@ setup: |
 # run the program and confirm the existence of fragments in its output
 - description: "Run the program and confirm the existence of correct output for part two of the assessment"
   check: MatchCommandFragment
-  objectives: "LO1, LO2"
+  objectives: "LO1,LO2"
   options:
     command: "python source/assessment.py"
     fragment: "3 / 2 / 2 / 1 / 0 / True"
@@ -87,7 +87,7 @@ setup: |
 # run the program and confirm the existence of fragments in its output
 - description: "Run the program and confirm the existence of correct output for part three of the assessment"
   check: MatchCommandFragment
-  objectives: "LO1, LO2"
+  objectives: "LO1,LO2"
   options:
     command: "python source/assessment.py"
     fragment: "4 / 3 / 2 / 1 / 0 / True"
@@ -97,7 +97,7 @@ setup: |
 # run the program and confirm the existence of fragments in its output
 - description: "Run the program and confirm the existence of correct output for part four of the assessment"
   check: MatchCommandFragment
-  objectives: "LO1, LO2"
+  objectives: "LO1,LO2"
   options:
     command: "python source/assessment.py"
     fragment: "3 / 36 / True"
