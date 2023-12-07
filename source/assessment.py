@@ -386,6 +386,11 @@ def measure_and_print_execution_time_filter() -> Tuple[str, str]:
 # }}}
 
 
+# Note: You may read the following source code and comments that describe
+# the output so that you can understand the output format that the assessment
+# produces and for which the gatorgrade program checks. With that said, please
+# be aware of the fact that you do not need to understand how this code works.
+
 # Do not edit any of the source code below this line {{{
 
 
