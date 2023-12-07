@@ -202,7 +202,7 @@ def count_columns(records: List[List[str]]) -> int:
 
 # --> If the provided lists of lists only contained these two rows and the specified
 # column index was 4 and the column value was "example" then the function
-# would return both of the rows because that both have "example" in the final row
+# would return both of the rows because that both have "example" in the final column
 
 # --> However, if the provided lists of lists only contained these two rows and the specified
 # column index was 4 and the column value was "example.org" then the function
