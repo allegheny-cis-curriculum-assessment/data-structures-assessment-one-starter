@@ -340,9 +340,11 @@ def find_most_common_column_value(
 # Otherwise, your implementation of the function must produce output in the same
 # format, ensuring, for instance, that you have the "Result:" and "Time:" labels
 
+# TODO: This function is missing a docstring. You must add a docstring comment
+# to it so that this funtion conforms to industry-standard formats and styles.
+
 
 def measure_and_print_execution_time_filter() -> Tuple[str, str]:
-    """Measure and print the execution time of a function."""
     # create the labels for the output
     result_label = "Result"
     time_label = "Time"
